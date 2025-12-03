@@ -1,2 +1,2 @@
 #lerusya
-мой сайт
+mysite
